@@ -1,0 +1,3 @@
+/home/kucejlb/1week/miniscience-4th-term/2025/01_meshes/cpp/SVOyo/top/CMakeFiles/top.dir
+/home/kucejlb/1week/miniscience-4th-term/2025/01_meshes/cpp/SVOyo/top/CMakeFiles/edit_cache.dir
+/home/kucejlb/1week/miniscience-4th-term/2025/01_meshes/cpp/SVOyo/top/CMakeFiles/rebuild_cache.dir

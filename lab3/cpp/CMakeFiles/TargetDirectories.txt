@@ -1,0 +1,3 @@
+/home/kucejlb/3lab/miniscience-4th-term/cpp/CMakeFiles/demo_poisson.dir
+/home/kucejlb/3lab/miniscience-4th-term/cpp/CMakeFiles/edit_cache.dir
+/home/kucejlb/3lab/miniscience-4th-term/cpp/CMakeFiles/rebuild_cache.dir

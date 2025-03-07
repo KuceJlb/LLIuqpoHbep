@@ -1,0 +1,3 @@
+/home/kucejlb/2lab/miniscience-4th-term/2025/02_vtk/cpp/cpp/CMakeFiles/tetr3d.dir
+/home/kucejlb/2lab/miniscience-4th-term/2025/02_vtk/cpp/cpp/CMakeFiles/edit_cache.dir
+/home/kucejlb/2lab/miniscience-4th-term/2025/02_vtk/cpp/cpp/CMakeFiles/rebuild_cache.dir
